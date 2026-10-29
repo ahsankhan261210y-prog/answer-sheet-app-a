@@ -1,0 +1,4 @@
+answer_sheet.db
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
